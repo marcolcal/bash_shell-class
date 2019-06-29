@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#This script generates a list of random passwords
+
+
+#RANDOM number as a passworrd
+PASSWORD="${RANDOM}"
+echo "${PASSWORD}"
+
+#Three random numbers all together
+PASSWORD="${RANDOM}${RANDOM}${RANDOM}"
+echo "${PASSWORD}"
