@@ -1,0 +1,15 @@
+total 56
+drwxrwxr-x 3 marcolcal marcolcal 4096 Aug 12 11:55 .
+drwxrwxr-x 3 marcolcal marcolcal 4096 Jun 29 17:10 ..
+-rw-rw-r-- 1 marcolcal marcolcal  229 Apr 26 11:52 1!
+-rwxr-xr-x 1 marcolcal marcolcal 1437 Apr 21 19:41 add-local-user.sh
+-rwxrwxr-x 1 marcolcal marcolcal  180 Aug 12 11:45 exit_status.sh
+drwxrwxr-x 8 marcolcal marcolcal 4096 Jun 29 17:31 .git
+-rw-rw-r-- 1 marcolcal marcolcal  877 Aug 12 11:55 ls.txt
+-r-xr-xr-x 1 marcolcal marcolcal  431 Apr 21 16:42 luser02.sh
+-rwxr--r-- 1 marcolcal marcolcal  641 Apr 21 15:54 luser-demo01.sh
+-rwxr-xr-x 1 marcolcal marcolcal  980 Apr 21 17:22 luser_demo03.sh
+-rwxrwxr-x 1 marcolcal marcolcal  637 Apr 21 18:31 luser_demo04.sh
+-rwxr-xr-x 1 marcolcal marcolcal  787 Apr 26 12:26 luser_demo05.sh
+-rwxr-xr-x 1 marcolcal marcolcal  191 Apr 26 12:55 luser_demo06.sh
+-rw-rw-r-- 1 marcolcal marcolcal   36 Jun 29 17:31 README.md
